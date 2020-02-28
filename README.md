@@ -109,7 +109,83 @@ Relays
 而是一個七位混合十進制代碼。所有的貝爾實驗室中繼計算機都以十進制算法工作。
 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。
 另一個電路檢查了每個組中只有一個繼電器的接通狀態，這防止了兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。
-
+incorporated 
+a.  根據法律組成的公司, 公司
+institution  
+n.  機構, 慣例, 制度
+synonymous  
+a.  同義詞的, 同義的
+fundamental  
+n.  基本原理, 原則, 基波
+a.  基本的, 重要的, 原音的
+branch  
+n.  樹枝, 支店, 支流, 分部
+field  
+n.  領域, 田地, 場地, 戰場, 場, 域
+mention  
+n.  提到
+scheme  
+n.  方案, 計劃
+relay  
+n.  驛馬, 替班, 中繼
+assemble  
+vt.  集合
+tobacco  
+n.  煙草
+practical  
+a.  實際的
+arithmetic 
+n.  算術
+sequence  
+n.  序列
+straightforward 
+a.  筆直的
+temporary  
+a.  暫時的, 臨時的
+intermediate 
+n.  中間物, 調停者, 中級
+a.  中間的
+correspondence  
+n.  相符
+involved  
+a.  難懂的
+subtract  
+vt.  減去
+multipole  
+a.  多極的
+storage  
+n.  存儲器
+multiply  
+vt.  繁殖
+accordingly  
+ad.  相應地
+remotely  
+ad.  極小地
+modify  
+vt.  修正
+simultaneously  
+ad.  同時發生
+foreshadow  
+vt.  成為前兆
+encourage  
+vt.  鼓勵
+military  
+n.  軍隊
+a.  軍事的
+antiaircraft  
+a.  防空的
+agency  
+n.  代理機構
+target  
+n.  目標
+notation  
+n.  記號
+combination  
+n.  組合
+separate  
+n.  獨立件
+malfunction 
+n.  故障
 
 
 
